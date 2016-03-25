@@ -1,2 +1,2 @@
 # gitkill
-clone
+cl
